@@ -31,8 +31,13 @@ The main goal of this task was to get hands-on experience with cloud object stor
 6. **Took a Screenshot**  
    Finally, I took a **screenshot showing my image displayed in the browser** via the presigned URL. This proves the file was uploaded successfully and could be accessed.
 
-## Screenshot
-![Uploaded File](screenshot.png)
+## Screenshots
+
+Here are the screenshots showing the file upload and access process:
+
+![Uploaded File - Step 1](screenshot1.png)
+![Uploaded File - Step 2](screenshot2.png)
+![Uploaded File - Step 3](screenshot3.png)
 
 ## What I Learned
 - Learned how **AWS S3 buckets store objects** and control access.
