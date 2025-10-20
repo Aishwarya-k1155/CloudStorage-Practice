@@ -35,9 +35,9 @@ The main goal of this task was to get hands-on experience with cloud object stor
 
 Here are the screenshots showing the file upload and access process:
 
-![Uploaded File - Step 1](screenshot1.png)
-![Uploaded File - Step 2](screenshot2.png)
-![Uploaded File - Step 3](screenshot3.png)
+![Uploaded File - Step 1](Screenshot1.png)
+![Uploaded File - Step 2](Screenshot2.png)
+![Uploaded File - Step 3](Screenshot3.png)
 
 ## What I Learned
 - Learned how **AWS S3 buckets store objects** and control access.
